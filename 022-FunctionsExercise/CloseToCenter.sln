@@ -11,8 +11,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactorialDivision", "Factor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiplyEvensSumByOdds", "MultiplyEvensSumByOdds\MultiplyEvensSumByOdds.vcxproj", "{691CF557-BE1C-4E19-91CF-09AFB00F9B15}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo", "demo\demo.vcxproj", "{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VowelsCount", "VowelsCount\VowelsCount.vcxproj", "{7697F28C-C2AD-4407-96AD-8E2E7D74AC74}"
 EndProject
 Global
@@ -55,14 +53,6 @@ Global
 		{691CF557-BE1C-4E19-91CF-09AFB00F9B15}.Release|x64.Build.0 = Release|x64
 		{691CF557-BE1C-4E19-91CF-09AFB00F9B15}.Release|x86.ActiveCfg = Release|Win32
 		{691CF557-BE1C-4E19-91CF-09AFB00F9B15}.Release|x86.Build.0 = Release|Win32
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Debug|x64.ActiveCfg = Debug|x64
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Debug|x64.Build.0 = Debug|x64
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Debug|x86.ActiveCfg = Debug|Win32
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Debug|x86.Build.0 = Debug|Win32
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Release|x64.ActiveCfg = Release|x64
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Release|x64.Build.0 = Release|x64
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Release|x86.ActiveCfg = Release|Win32
-		{6A269FCB-98AA-463F-90A1-A5D35BA2A4A6}.Release|x86.Build.0 = Release|Win32
 		{7697F28C-C2AD-4407-96AD-8E2E7D74AC74}.Debug|x64.ActiveCfg = Debug|x64
 		{7697F28C-C2AD-4407-96AD-8E2E7D74AC74}.Debug|x64.Build.0 = Debug|x64
 		{7697F28C-C2AD-4407-96AD-8E2E7D74AC74}.Debug|x86.ActiveCfg = Debug|Win32
