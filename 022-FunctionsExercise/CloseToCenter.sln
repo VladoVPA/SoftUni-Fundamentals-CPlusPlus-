@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PasswordValidator", "Passwo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Orders", "Orders\Orders.vcxproj", "{E1B69301-FEC9-444E-95EB-FC29C2216A55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreaterofTwoValues", "GreaterofTwoValues\GreaterofTwoValues.vcxproj", "{9B24D30C-C074-4B9C-A004-6A3E27B2504C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{E1B69301-FEC9-444E-95EB-FC29C2216A55}.Release|x64.Build.0 = Release|x64
 		{E1B69301-FEC9-444E-95EB-FC29C2216A55}.Release|x86.ActiveCfg = Release|Win32
 		{E1B69301-FEC9-444E-95EB-FC29C2216A55}.Release|x86.Build.0 = Release|Win32
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Debug|x64.ActiveCfg = Debug|x64
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Debug|x64.Build.0 = Debug|x64
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Debug|x86.Build.0 = Debug|Win32
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Release|x64.ActiveCfg = Release|x64
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Release|x64.Build.0 = Release|x64
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Release|x86.ActiveCfg = Release|Win32
+		{9B24D30C-C074-4B9C-A004-6A3E27B2504C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
