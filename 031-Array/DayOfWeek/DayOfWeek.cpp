@@ -4,7 +4,7 @@ using namespace std;
 const string daysOfWeek[] = {
     "Monday",
     "Tuesday",
-    "Wednesda",
+    "Wednesday",
     "Thursday",
     "Friday",
     "Saturday",
