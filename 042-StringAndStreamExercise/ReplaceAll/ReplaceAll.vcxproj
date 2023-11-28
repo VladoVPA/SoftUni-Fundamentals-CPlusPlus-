@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{323d2417-ab0b-4a83-a958-08b0c96ab4d6}</ProjectGuid>
-    <RootNamespace>CaesarCipher</RootNamespace>
+    <ProjectGuid>{030e9fb8-a275-4790-a829-a8ce41ef656b}</ProjectGuid>
+    <RootNamespace>ReplaceAll</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CaesarCipher2.cpp" />
+    <ClCompile Include="ReplaceAll.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{323d2417-ab0b-4a83-a958-08b0c96ab4d6}</ProjectGuid>
-    <RootNamespace>CaesarCipher</RootNamespace>
+    <ProjectGuid>{b6ddda3e-f010-4b8b-b3fb-fe59546d1a35}</ProjectGuid>
+    <RootNamespace>InvalidInput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CaesarCipher2.cpp" />
+    <ClCompile Include="InvalidInput.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

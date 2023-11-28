@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CaesarCipher2.cpp">
+    <ClCompile Include="TitleCase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
