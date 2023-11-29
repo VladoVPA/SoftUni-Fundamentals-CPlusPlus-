@@ -7,7 +7,8 @@ bool wordIsValid(string name) {
     int size=name.size();
     if (size < 3 || size > 16)
         return false;
-    for (size_t c = 0; c < size; c++) {
+   
+    for (int c = 0; c < size; c++) {
         char x = name[c];
         if (isalnum(x) == false) {
             if (x == '-' || x == '_')
@@ -16,6 +17,7 @@ bool wordIsValid(string name) {
                 return false;
         }
     }
+    return true;
 }
 
 int main()
