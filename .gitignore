@@ -397,3 +397,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 HelpFiles/HelpFilesVectors/HelpFilesVectors.vcxproj
+052-Vectors Lists and Iterators Exercise/Brackets/Brackets.cpp
+052-Vectors Lists and Iterators Exercise/Brackets/Brackets.vcxproj
+052-Vectors Lists and Iterators Exercise/Brackets/Brackets.vcxproj.filters

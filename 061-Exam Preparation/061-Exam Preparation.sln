@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Below Average Only", "Below
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Special Items", "Special Items\Special Items.vcxproj", "{FB60A7D0-A209-4E37-B298-624762D0372C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Machine Commands", "Machine Commands\Machine Commands.vcxproj", "{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FB60A7D0-A209-4E37-B298-624762D0372C}.Release|x64.Build.0 = Release|x64
 		{FB60A7D0-A209-4E37-B298-624762D0372C}.Release|x86.ActiveCfg = Release|Win32
 		{FB60A7D0-A209-4E37-B298-624762D0372C}.Release|x86.Build.0 = Release|Win32
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Debug|x64.ActiveCfg = Debug|x64
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Debug|x64.Build.0 = Debug|x64
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Debug|x86.Build.0 = Debug|Win32
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Release|x64.ActiveCfg = Release|x64
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Release|x64.Build.0 = Release|x64
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Release|x86.ActiveCfg = Release|Win32
+		{E85170BA-6740-4C54-8AF7-F4B4549B0DA2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
