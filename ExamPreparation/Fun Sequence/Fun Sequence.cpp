@@ -13,10 +13,6 @@ int giveAverage(int str[], int num) {
     return sum /num;
 }
 
-void descendingOrder(int str[]) {
-    int temp;
-}
-
 int main()
 {
     int N;
